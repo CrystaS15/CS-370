@@ -1,0 +1,72 @@
+Count of Perfect, Abundant, and Deficient numbers from 1 to 10000000
+Please wait. Running...
+
+Count of Perfect Numbers = 4
+Count of Abundant Numbers = 2476737
+Count of Deficient Numbers = 7523258
+Total = 9999999
+
+
+real	1m38.050s
+user	1m37.964s
+sys	0m0.024s
+Count of Perfect, Abundant, and Deficient numbers from 1 to 10000000
+Please wait. Running...
+
+Count of Perfect Numbers = 4
+Count of Abundant Numbers = 2476737
+Count of Deficient Numbers = 7523258
+Total = 9999999
+
+
+real	1m36.708s
+user	1m36.645s
+sys	0m0.004s
+Count of Perfect, Abundant, and Deficient numbers from 1 to 10000000
+Please wait. Running...
+
+Count of Perfect Numbers = 4
+Count of Abundant Numbers = 2476737
+Count of Deficient Numbers = 7523258
+Total = 9999999
+
+
+real	1m38.525s
+user	1m38.397s
+sys	0m0.048s
+Count of Perfect, Abundant, and Deficient numbers from 1 to 10000000
+Please wait. Running...
+
+Count of Perfect Numbers = 4
+Count of Abundant Numbers = 2476737
+Count of Deficient Numbers = 7523258
+Total = 9999999
+
+
+real	0m33.226s
+user	1m39.010s
+sys	0m0.244s
+Count of Perfect, Abundant, and Deficient numbers from 1 to 10000000
+Please wait. Running...
+
+Count of Perfect Numbers = 4
+Count of Abundant Numbers = 2476737
+Count of Deficient Numbers = 7523258
+Total = 9999999
+
+
+real	0m33.405s
+user	1m39.648s
+sys	0m0.173s
+Count of Perfect, Abundant, and Deficient numbers from 1 to 10000000
+Please wait. Running...
+
+Count of Perfect Numbers = 4
+Count of Abundant Numbers = 2476737
+Count of Deficient Numbers = 7523258
+Total = 9999999
+
+
+real	0m33.391s
+user	1m39.669s
+sys	0m0.120s
